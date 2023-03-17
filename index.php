@@ -93,7 +93,7 @@ if ($hoje <= $fim) {
 		<div id="greywrap">
 			<div class="row">
 				<div class="col-md-4 callout">
-					
+					<a href="http://www.biopreserve.com.br/clientes/" target="_blank"><img src="assets/img/bg/area do cliente.png" width="302" height="151" alt=""/></a>
 				</div>
 				<div class="col-md-4 callout">
 					<a href="https://www.biopreserve.com.br/biodigital/" target="_blank"><img src="assets/img/bg/biodigital.png" width="302" height="151" alt="" /></a>
